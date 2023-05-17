@@ -1,7 +1,7 @@
 {
   "inviteDomain":"meeting-test.airbusds.nl",
   "logoClickUrl":"https://www.airbusdefenceandspacenetherlands.nl",
-  "logoImageUrl":"https://meeting-test.airbusds.nl/airbuslogo.png",
+  "logoImageUrl":"https://meeting-test.airbusds.nl/images/airbuslogo.png",
   "customTheme": {
     "palette": {
       "ui01": "orange !important",
