@@ -8,98 +8,97 @@
     },
     "typography": {
       "font": {
-         "weightRegular": "400",
-         "weightSemiBold": "600"
+        "weightRegular": "400",
+        "weightSemiBold": "600"
       },
       "labelRegular": {
-         "fontSize": 12,
-         "lineHeight": 16,
-         "fontWeight": "400",
-         "letterSpacing": 0.16
+        "fontSize": 12,
+        "lineHeight": 16,
+        "fontWeight": "400",
+        "letterSpacing": 0.16
       },
       "labelBold": {
-         "fontSize": 12,
-         "lineHeight": 16,
-         "fontWeight": "600",
-         "letterSpacing": 0.16
+        "fontSize": 12,
+        "lineHeight": 16,
+        "fontWeight": "600",
+        "letterSpacing": 0.16
       },
       "bodyShortRegular": {
-         "fontSize": 14,
-         "lineHeight": 18,
-         "fontWeight": "400",
-         "letterSpacing": 0
+        "fontSize": 14,
+        "lineHeight": 18,
+        "fontWeight": "400",
+        "letterSpacing": 0
       },
       "bodyShortBold": {
-         "fontSize": 14,
-         "lineHeight": 18,
-         "fontWeight": "600",
-         "letterSpacing": 0
+        "fontSize": 14,
+        "lineHeight": 18,
+        "fontWeight": "600",
+        "letterSpacing": 0
       },
       "bodyShortRegularLarge": {
-         "fontSize": 16,
-         "lineHeight": 24,
-         "fontWeight": "400",
-         "letterSpacing": 0
+        "fontSize": 16,
+        "lineHeight": 24,
+        "fontWeight": "400",
+        "letterSpacing": 0
       },
       "bodyShortBoldLarge": {
-         "fontSize": 16,
-         "lineHeight": 24,
-         "fontWeight": "600",
-         "letterSpacing": 0
+        "fontSize": 16,
+        "lineHeight": 24,
+        "fontWeight": "600",
+        "letterSpacing": 0
       },
       "bodyLongRegular": {
-         "fontSize": 14,
-         "lineHeight": 24,
-         "fontWeight": "400",
-         "letterSpacing": 0
+        "fontSize": 14,
+        "lineHeight": 24,
+        "fontWeight": "400",
+        "letterSpacing": 0
       },
       "bodyLongBold": {
-         "fontSize": 14,
-         "lineHeight": 24,
-         "fontWeight": "600",
-         "letterSpacing": 0
+        "fontSize": 14,
+        "lineHeight": 24,
+        "fontWeight": "600",
+        "letterSpacing": 0
       },
       "heading1": {
-         "fontSize": 54,
-         "lineHeight": 64,
-         "fontWeight": "600",
-         "letterSpacing": 0
+        "fontSize": 54,
+        "lineHeight": 64,
+        "fontWeight": "600",
+        "letterSpacing": 0
       },
       "heading2": {
-         "fontSize": 42,
-         "lineHeight": 50,
-         "fontWeight": "600",
-         "letterSpacing": 0
+        "fontSize": 42,
+        "lineHeight": 50,
+        "fontWeight": "600",
+        "letterSpacing": 0
       },
       "heading3": {
-         "fontSize": 32,
-         "lineHeight": 40,
-         "fontWeight": "600",
-         "letterSpacing": 0
+        "fontSize": 32,
+        "lineHeight": 40,
+        "fontWeight": "600",
+        "letterSpacing": 0
       },
       "heading4": {
-         "fontSize": 28,
-         "lineHeight": 36,
-         "fontWeight": "600",
-         "letterSpacing": 0
+        "fontSize": 28,
+        "lineHeight": 36,
+        "fontWeight": "600",
+        "letterSpacing": 0
       },
       "heading5": {
-         "fontSize": 20,
-         "lineHeight": 28,
-         "fontWeight": "600",
-         "letterSpacing": 0
+        "fontSize": 20,
+        "lineHeight": 28,
+        "fontWeight": "600",
+        "letterSpacing": 0
       },
       "heading6": {
-         "fontSize": 16,
-         "lineHeight": 26,
-         "fontWeight": "600",
-         "letterSpacing": 0
+        "fontSize": 16,
+        "lineHeight": 26,
+        "fontWeight": "600",
+        "letterSpacing": 0
       }
-   },
-   "shape": {
+    },
+    "shape": {
       "borderRadius": 6,
       "boxShadow": "inset 0px -1px 0px rgba(255, 255, 255, 0.15)"
-   }
     }
   }
 }
