@@ -4,7 +4,7 @@
   "logoImageUrl":"https://meeting-test.airbusds.nl/images/airbuslogo.png",
   "customTheme": {
     "palette": {
-      "uiBackground": "white",
+      "uiBackground": "#ffffff",
       "ui01": "orange !important",
       "ui02": "maroon",
       "surface02": "darkgreen",
