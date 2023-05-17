@@ -4,25 +4,102 @@
   "logoImageUrl":"https://meeting-test.airbusds.nl/images/airbuslogo.png",
   "customTheme": {
     "palette": {
-      "uiBackground": "#ffffff",
-      "ui01": "orange !important",
-      "ui02": "maroon",
-      "surface02": "darkgreen",
-      "ui03": "violet",
-      "ui04": "magenta",
-      "ui05": "blueviolet",
-      "action01": "green",
-      "action01Hover": "lightgreen",
-      "disabled01": "beige",
-      "success02": "cadetblue",
-      "action02Hover": "aliceblue"
+      "uiBackground": "#ffffff"
     },
     "typography": {
+      "font": {
+         "weightRegular": "400",
+         "weightSemiBold": "600"
+      },
       "labelRegular": {
-        "fontSize": 25,
-        "lineHeight": 30,
-        "fontWeight": 500
+         "fontSize": 12,
+         "lineHeight": 16,
+         "fontWeight": "400",
+         "letterSpacing": 0.16
+      },
+      "labelBold": {
+         "fontSize": 12,
+         "lineHeight": 16,
+         "fontWeight": "600",
+         "letterSpacing": 0.16
+      },
+      "bodyShortRegular": {
+         "fontSize": 14,
+         "lineHeight": 18,
+         "fontWeight": "400",
+         "letterSpacing": 0
+      },
+      "bodyShortBold": {
+         "fontSize": 14,
+         "lineHeight": 18,
+         "fontWeight": "600",
+         "letterSpacing": 0
+      },
+      "bodyShortRegularLarge": {
+         "fontSize": 16,
+         "lineHeight": 24,
+         "fontWeight": "400",
+         "letterSpacing": 0
+      },
+      "bodyShortBoldLarge": {
+         "fontSize": 16,
+         "lineHeight": 24,
+         "fontWeight": "600",
+         "letterSpacing": 0
+      },
+      "bodyLongRegular": {
+         "fontSize": 14,
+         "lineHeight": 24,
+         "fontWeight": "400",
+         "letterSpacing": 0
+      },
+      "bodyLongBold": {
+         "fontSize": 14,
+         "lineHeight": 24,
+         "fontWeight": "600",
+         "letterSpacing": 0
+      },
+      "heading1": {
+         "fontSize": 54,
+         "lineHeight": 64,
+         "fontWeight": "600",
+         "letterSpacing": 0
+      },
+      "heading2": {
+         "fontSize": 42,
+         "lineHeight": 50,
+         "fontWeight": "600",
+         "letterSpacing": 0
+      },
+      "heading3": {
+         "fontSize": 32,
+         "lineHeight": 40,
+         "fontWeight": "600",
+         "letterSpacing": 0
+      },
+      "heading4": {
+         "fontSize": 28,
+         "lineHeight": 36,
+         "fontWeight": "600",
+         "letterSpacing": 0
+      },
+      "heading5": {
+         "fontSize": 20,
+         "lineHeight": 28,
+         "fontWeight": "600",
+         "letterSpacing": 0
+      },
+      "heading6": {
+         "fontSize": 16,
+         "lineHeight": 26,
+         "fontWeight": "600",
+         "letterSpacing": 0
       }
+   },
+   "shape": {
+      "borderRadius": 6,
+      "boxShadow": "inset 0px -1px 0px rgba(255, 255, 255, 0.15)"
+   }
     }
   }
 }
